@@ -1,0 +1,83 @@
+body{
+    background-image: url(https://wallpaperaccess.com/full/4893732.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+ul{
+    display: flex;
+    overflow: hidden;
+     height: 30px;
+    align-items: center;
+    padding-right: 100px;
+    padding-top: 10px; 
+}
+ul li {
+    list-style: none;
+
+    
+}
+ul li  a {
+    text-decoration: none;
+    color:white;
+    padding:10px 20px;
+    justify-content:space-between;
+
+}
+.navbar{
+    
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.navbar a.one{
+    text-decoration: none;
+    color:red;
+    font-size:xx-large;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-left: 100px;
+    font-weight:bolder;
+
+}
+h3{
+    color:rgb(208, 23, 23);
+    height:10px;
+    font-weight: bolder;
+}
+h1{
+    color:white;
+    font-size: 60px;
+}
+p{
+    color:white;
+}
+.two{
+padding-top: 150px;
+padding-left: 100px;
+}
+.three{
+    
+    padding:20px 100px;
+    justify-content: space-between;
+}
+.four{
+    background-color: red;
+    padding:10px 24px;
+    border-radius: 20px;
+    border:none;
+}
+a.five{
+    color:white;
+    text-decoration: none;
+}
+.six{
+    background-color: red;
+    padding:10px 24px;
+    border-radius: 20px;
+    border:none;
+
+}
+a.seven{
+    color:white;
+    text-decoration: none;
+}
